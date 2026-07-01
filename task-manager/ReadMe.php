@@ -62,7 +62,7 @@ TASK-MANAGER/
 
 1. **Clone the Repository:**
    
-   git clone [https://github.com/HesamFBI/task-manager.git](https://github.com/HesamFBI/task-manager.git)
+   git clone (git clone https://github.com/HesamFBI/Task-manager.git)
 Database Setup:
 
 Open phpMyAdmin.
@@ -140,7 +140,7 @@ TASK-MANAGER/
 ۱. دریافت سورس کد:
 
 
-git clone [https://github.com/HesamFBI/task-manager.git](https://github.com/HesamFBI/task-manager.git)
+git clone (git clone https://github.com/HesamFBI/Task-manager.git)
 ۲. تنظیمات پایگاه داده:
 
 وارد محیط phpMyAdmin شوید.
